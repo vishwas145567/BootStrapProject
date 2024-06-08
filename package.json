@@ -1,0 +1,26 @@
+{
+  "name": "bootstrapproject",
+  "version": "1.0.0",
+  "description": "Learning the bootatrap",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:assets/css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwas145567/BootStrapProject.git"
+  },
+  "keywords": [
+    "BootStarp"
+  ],
+  "author": "Vishwas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwas145567/BootStrapProject/issues"
+  },
+  "homepage": "https://github.com/vishwas145567/BootStrapProject#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.4"
+  }
+}
